@@ -23,7 +23,6 @@ Pet Blog
 
 
 
-
 Customer management
  1.Welcome Section: View welcome page
  2.Customer Login:  Customer Authentication.
