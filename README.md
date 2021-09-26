@@ -36,6 +36,6 @@ Pet Care
   3.Teach your Dog: view methods
   4.Pharmacy: view pharmacy details, search products, google map
 
-
+//
 
 
