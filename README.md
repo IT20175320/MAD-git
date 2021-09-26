@@ -25,11 +25,12 @@ Pet Blog
 
 
 Customer management
-1.Welcome Section: View welcome page
-2.Customer Login:  Customer Authentication.
-3.Customer Registration:  Add Customer details and create new user account
-4.User Profile and Edit Profile: View profile details, Update, Delete categories
+ 1.Welcome Section: View welcome page
+ 2.Customer Login:  Customer Authentication.
+ 3.Customer Registration:  Add Customer details and create new user account
+ 4.User Profile and Edit Profile: View profile details, Update, Delete categories
 	
+
 Pet Care
   1.Doctor Details: view doctor details
   2.Appointment: create new appointment, update appointment, view appointment Details Delete appointment
