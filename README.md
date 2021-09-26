@@ -13,11 +13,14 @@ Food & Other products management section
 1.Category: Search products and add that into the cart.
 2.My cart: View products that customers choose, Calculate the total amount, and delete products from the cart.
 3.Adds: create adds, edit and delete ads
-	Pet Blog
-1. View the Blog Posts posted by all users.
+	
+	
+Pet Blog
+1. View the Blog Posts posted by all registered users.
 2. Adding a Blog Post: Inserting Highlight /description regarding the pet and uploading a photo.
-3. Edit and delete a Blog Post.
-4.Adding a comment for the blog post
+3. Deleting a Blog Post.
+4. Editing a posted blog post
+
 
 
 
