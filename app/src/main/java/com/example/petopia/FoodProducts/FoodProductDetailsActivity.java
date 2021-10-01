@@ -69,7 +69,7 @@ public class FoodProductDetailsActivity extends AppCompatActivity {
             }
         });
 
-//        Increment qty
+//        Increment qty calculation
         increment.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -85,7 +85,7 @@ public class FoodProductDetailsActivity extends AppCompatActivity {
             }
         });
 
-//        Decrement qty
+//        Decrement qty calculation
         decrement.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
